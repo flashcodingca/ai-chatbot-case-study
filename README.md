@@ -2,9 +2,18 @@
 
 A multimodal AI chatbot project with text, voice, image interaction, and customizable personas.
 
+## Public Case Study
+
+https://flashcoding.ca/projects/myworlds/
+
 ## Live Website
 
 https://myworlds.ca/
+
+## Built By
+
+Flash Coding  
+https://flashcoding.ca/
 
 ## Project Type
 
